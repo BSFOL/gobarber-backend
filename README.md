@@ -19,4 +19,5 @@ Node API
 
 - PostgreSQL
 - MongoDB (notificações)
+
 Obs.: ambos utilizados com TypeORM
